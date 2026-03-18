@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8721bfec-39e8-4f44-bfe8-9aef37ce2a2b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/halo-backend/data/halodb.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/HaloBackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/HaloBackendApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/config/DataInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/config/DataInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/config/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/AuditController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/ClaimController.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/ClaimController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/IamController.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/IamController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/PolicyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/PolicyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/QuoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/QuoteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/QuotePricingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/QuotePricingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/RiskParameterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/RiskParameterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/UnderwriterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/UnderwriterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/controller/UserProfileController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/claim/request/FileClaimRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/claim/request/FileClaimRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/claim/response/ClaimDetailResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/claim/response/ClaimDetailResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/claim/response/ClaimDocumentResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/claim/response/ClaimDocumentResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/claim/response/ClaimTimelineResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/common/ApiResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/common/ResponseFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/common/ResponseFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/policy/response/PolicyDetailResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/policy/response/PolicyDetailResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/policy/response/PolicySummaryResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/policy/response/PolicySummaryResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/product/request/CreateProductRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/product/request/CreateProductRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/product/request/UpdateProductRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/product/request/UpdateProductRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/product/response/ProductDetailResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/product/response/ProductDetailResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/profile/request/AddProfileRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/profile/response/ProfileDetailResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/profile/response/ProfileSummaryResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/quote/response/QuoteSummaryResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/quote/response/QuoteSummaryResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/risk/response/RiskParameterResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/risk/response/RiskParameterResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/system/response/AuditLogResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/underwriter/response/QueueItemResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/dto/underwriter/response/QueueItemResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/enums/ClaimStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/enums/ClaimStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/enums/PaymentStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/enums/QuoteStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/enums/QuoteStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/exception/business/UserNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/exception/codes/ErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/exception/codes/ErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/exception/handler/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/exception/handler/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/exception/security/ForbiddenException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/exception/system/DatabaseException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/exception/system/ExternalServiceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/exception/system/InternalServerException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/mapper/claim/ClaimMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/mapper/claim/ClaimMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/mapper/iam/IamMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/mapper/iam/IamMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/mapper/policy/PolicyMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/mapper/policy/PolicyMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/mapper/product/ProductMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/mapper/product/ProductMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/mapper/profile/ProfileMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/mapper/quote/QuoteMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/mapper/quote/QuoteMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/RiskParameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/claim/Claim.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/claim/Claim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/claim/ClaimTimeline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/payment/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/payment/PaymentMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/payment/PaymentMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/payment/Payout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/policy/Policy.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/policy/Policy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/policy/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/policy/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/policy/QuoteRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/policy/QuoteRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/profile/AppRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/profile/AppUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/profile/Platform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/profile/UserProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/system/AuditLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/system/RefreshToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/model/system/RefreshToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/repository/AppRoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/repository/AppRoleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/repository/AppUserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/repository/AppUserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/repository/AuditLogRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/repository/ClaimRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/repository/ClaimRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/repository/PlatformRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/repository/PlatformRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/repository/PolicyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/repository/PolicyRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/repository/QuoteRequestRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/repository/QuoteRequestRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/repository/RefreshTokenRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/repository/RefreshTokenRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/repository/RiskParameterRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/repository/RiskParameterRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/repository/UserProfileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/scheduler/PolicyLifecycleJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/security/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/security/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/security/filter/RateLimitInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/security/service/CustomUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/security/service/CustomUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/security/service/CustomUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/security/service/CustomUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/security/service/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/security/service/JwtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/security/service/RateLimiterService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/auth/AuthConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/auth/AuthConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/auth/AuthServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/auth/AuthServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/claim/ClaimService.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/claim/ClaimService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/claim/ClaimServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/claim/ClaimServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/iam/IamService.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/iam/IamService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/iam/IamServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/iam/IamServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/payment/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/payment/PaymentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/policy/PolicyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/policy/PolicyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/policy/PolicyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/policy/PolicyServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/product/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/product/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/profile/UserProfileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/profile/UserProfileServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/quote/QuotePricingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/quote/QuotePricingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/quote/QuoteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/quote/QuoteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/quote/QuoteServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/quote/QuoteServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/risk/RiskParameterService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/risk/RiskParameterServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/system/AuditLogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/system/AuditLogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/underwriter/UnderwriterAssignmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/underwriter/UnderwriterAssignmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/underwriter/UnderwriterQueueService.java" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/service/underwriter/UnderwriterQueueService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/util/PasswordGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/java/com/thehalo/halobackend/util/PasswordTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/halo-backend/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/test/java/com/thehalo/halobackend/AuthenticationIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/test/java/com/thehalo/halobackend/HaloBackendApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/test/java/com/thehalo/halobackend/IamWorkflowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/test/java/com/thehalo/halobackend/JwtAuthenticationFixTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/test/java/com/thehalo/halobackend/JwtStaffCreationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/test/java/com/thehalo/halobackend/QuickAuthTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/test/java/com/thehalo/halobackend/integration/RiskParameterIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-backend/src/test/java/com/thehalo/halobackend/service/risk/RiskParameterServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/app.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/app.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/app.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/app.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/app.routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/dto/iam/staff-response.dto.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/dto/iam/staff-response.dto.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/dto/policy/policy-request.dto.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/dto/policy/policy-response.dto.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/dto/product/product-response.dto.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/dto/product/product-response.dto.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/guards/auth-child.guard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/guards/auth.guard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/guards/form-dirty.guard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/guards/guest-guard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/guards/permission.guard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/interceptors/auth.interceptor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/interceptors/correlation-id.interceptor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/interceptors/error.interceptor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/interceptors/loading.interceptor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/models/auth.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/models/claim.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/models/payment.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/models/policy.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/models/product.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/models/profile.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/models/user.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/repositories/claims/claims.repository.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/repositories/claims/claims.repository.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/repositories/iam/iam.repository.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/repositories/iam/iam.repository.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/repositories/payments/payment.repository.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/repositories/payments/payment.repository.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/repositories/policies/policy.repository.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/repositories/policies/policy.repository.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/repositories/products/product.repository.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/repositories/products/product.repository.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/repositories/profiles/profile.repository.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/repositories/quotes/quote.repository.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/repositories/quotes/quote.repository.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/repositories/underwriter/risk-parameter.repository.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/repositories/underwriter/risk-parameter.repository.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/repositories/underwriter/underwriter.repository.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/repositories/underwriter/underwriter.repository.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/claim.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/claims/claims.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/services/claims/claims.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/core/confirmation-dialog.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/services/core/confirmation-dialog.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/core/theme.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/services/core/theme.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/demo.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/iam/iam.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/services/iam/iam.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/payments/payment.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/services/payments/payment.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/policies/policy.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/services/policies/policy.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/policy.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/products/product.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/services/products/product.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/profile.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/profiles/profile.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/public/public.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/services/public/public.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/quotes/quote-pricing.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/services/quotes/quote-pricing.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/quotes/quote.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/services/quotes/quote.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/shared/base-api.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/services/shared/base-api.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/underwriter/risk-parameter.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/services/underwriter/risk-parameter.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/underwriter/underwriter.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/services/underwriter/underwriter.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/user-state.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/core/services/user-state.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/core/services/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/login/login-form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/login/login-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/login/login-form.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/login/login-form.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/login/login-hero.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/login/login-hero.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/login/login-hero.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/login/login-hero.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/login/login.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/register/register-form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/register/register-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/register/register-form.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/register/register-form.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/register/register-steps.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/register/register-steps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/register/register-steps.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/register/register-steps.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/register/register.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/register/register.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/register/register.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/staff-login/staff-login.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/staff-login/staff-login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/auth/staff-login/staff-login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/claims-officer/claims-officer-claims/claims-officer-claims.css" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/claims-officer/claims-officer-claims/claims-officer-claims.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/claims-officer/claims-officer-claims/claims-officer-claims.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/claims-officer/claims-officer-claims/claims-officer-claims.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/claims-officer/claims-officer-claims/claims-officer-claims.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/claims-officer/claims-officer-claims/claims-officer-claims.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/claims-officer/claims-officer-dashboard/claims-officer-dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/claims-officer/claims-officer-dashboard/claims-officer-dashboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/claims-officer/claims-officer-dashboard/claims-officer-dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/claims-officer/claims-officer-dashboard/claims-officer-dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/claims-officer/claims-officer-dashboard/claims-officer-dashboard.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/claims-officer/claims-officer-dashboard/claims-officer-dashboard.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/claims-officer/claims-officer-reports/claims-officer-reports.css" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/claims-officer/claims-officer-reports/claims-officer-reports.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/claims-officer/claims-officer-reports/claims-officer-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/claims-officer/claims-officer-reports/claims-officer-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/claims-officer/claims-officer-reports/claims-officer-reports.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/claims-officer/claims-officer-reports/claims-officer-reports.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/iam-admin/iam-admin-dashboard/iam-admin-dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/iam-admin/iam-admin-dashboard/iam-admin-dashboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/iam-admin/iam-admin-dashboard/iam-admin-dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/iam-admin/iam-admin-dashboard/iam-admin-dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/iam-admin/iam-admin-dashboard/iam-admin-dashboard.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/iam-admin/iam-admin-dashboard/iam-admin-dashboard.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/iam-admin/iam-admin-reports/iam-admin-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/iam-admin/iam-admin-reports/iam-admin-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/iam-admin/iam-admin-reports/iam-admin-reports.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/iam-admin/iam-admin-reports/iam-admin-reports.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/iam-admin/iam-admin-staff-management/iam-admin-staff-management.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/iam-admin/iam-admin-staff-management/iam-admin-staff-management.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/iam-admin/iam-admin-staff-management/iam-admin-staff-management.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-add-profile-form/influencer-add-profile-form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-add-profile-form/influencer-add-profile-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-add-profile-form/influencer-add-profile-form.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-claims/influencer-claims.css" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-claims/influencer-claims.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-claims/influencer-claims.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-claims/influencer-claims.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-claims/influencer-claims.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-claims/influencer-claims.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-dashboard/influencer-dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-dashboard/influencer-dashboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-dashboard/influencer-dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-dashboard/influencer-dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-dashboard/influencer-dashboard.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-dashboard/influencer-dashboard.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-policies/influencer-policies.css" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-policies/influencer-policies.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-policies/influencer-policies.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-policies/influencer-policies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-policies/influencer-policies.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-policies/influencer-policies.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-profiles/influencer-profiles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-profiles/influencer-profiles.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-profiles/influencer-profiles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-quotes/influencer-quotes.css" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-quotes/influencer-quotes.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-quotes/influencer-quotes.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-quotes/influencer-quotes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-quotes/influencer-quotes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/influencer/influencer-quotes/influencer-quotes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/landing/landing.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/landing/landing.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/landing/landing.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/policy-admin/policy-admin-applications/policy-admin-applications.css" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/policy-admin/policy-admin-applications/policy-admin-applications.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/policy-admin/policy-admin-applications/policy-admin-applications.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/policy-admin/policy-admin-applications/policy-admin-applications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/policy-admin/policy-admin-applications/policy-admin-applications.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/policy-admin/policy-admin-applications/policy-admin-applications.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/policy-admin/policy-admin-dashboard/policy-admin-dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/policy-admin/policy-admin-dashboard/policy-admin-dashboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/policy-admin/policy-admin-dashboard/policy-admin-dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/policy-admin/policy-admin-dashboard/policy-admin-dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/policy-admin/policy-admin-dashboard/policy-admin-dashboard.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/policy-admin/policy-admin-dashboard/policy-admin-dashboard.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/policy-admin/policy-admin-policies/policy-admin-policies.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/policy-admin/policy-admin-policies/policy-admin-policies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/policy-admin/policy-admin-policies/policy-admin-policies.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/policy-admin/policy-admin-policies/policy-admin-policies.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/risk-matrix.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/risk-matrix.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/risk-matrix.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/risk-matrix.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/risk-parameters/risk-parameters.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-applications/underwriter-applications.css" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-applications/underwriter-applications.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-applications/underwriter-applications.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-applications/underwriter-applications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-applications/underwriter-applications.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-applications/underwriter-applications.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-dashboard.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-dashboard/underwriter-dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-dashboard/underwriter-dashboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-dashboard/underwriter-dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-dashboard/underwriter-dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-dashboard/underwriter-dashboard.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-dashboard/underwriter-dashboard.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-queue/underwriter-queue.css" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-queue/underwriter-queue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-queue/underwriter-queue.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-queue/underwriter-queue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-queue/underwriter-queue.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-queue/underwriter-queue.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-risk-parameters/underwriter-risk-parameters.css" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-risk-parameters/underwriter-risk-parameters.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-risk-parameters/underwriter-risk-parameters.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-risk-parameters/underwriter-risk-parameters.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-risk-parameters/underwriter-risk-parameters.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/features/underwriter/underwriter-risk-parameters/underwriter-risk-parameters.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/confirmation-dialog/confirmation-dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/confirmation-dialog/confirmation-dialog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/confirmation-dialog/confirmation-dialog.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/confirmation-dialog/confirmation-dialog.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/data-table/data-table.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/data-table/data-table.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/data-table/data-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/data-table/data-table.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/data-table/data-table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/data-table/data-table.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/halo-logo.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/halo-logo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/loader/button-loader.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/loader/button-loader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/loader/button-loader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/loader/global-loader.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/loader/global-loader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/loader/global-loader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/navbar/nav-links.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/navbar/nav-links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/navbar/nav-links.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/navbar/nav-links.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/navbar/nav-user-menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/navbar/nav-user-menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/navbar/nav-user-menu.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/navbar/nav-user-menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/navbar/navbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/navbar/navbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/notification/notification.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/notification/notification.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/notification/notification.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/quote-pricing/quote-pricing.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/quote-pricing/quote-pricing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/quote-pricing/quote-pricing.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/stats-card/stats-card.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/stats-card/stats-card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/stats-card/stats-card.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-badge.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-badge.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-badge.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-badge.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-badge/halo-badge.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-badge/halo-badge.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-badge/halo-badge.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-badge/halo-badge.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-badge/halo-badge.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-badge/halo-badge.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-button.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-button.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-button/halo-button.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-button/halo-button.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-button/halo-button.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-button/halo-button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-button/halo-button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-button/halo-button.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-input-field.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-input-field.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-input-field.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/halo-input-field.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/status-badge/status-badge.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/status-badge/status-badge.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/status-badge/status-badge.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/components/ui/status-badge/status-badge.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/layouts/main-layout/main-layout.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/shared/layouts/main-layout/main-layout.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/layouts/main-layout/main-layout.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/shared/layouts/main-layout/main-layout.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/app/shared/layouts/main-layout/main-layout.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/app/shared/layouts/main-layout/main-layout.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/halo-frontend/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halo-frontend/src/styles/theme.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/halo-backend" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3AqMGrOTg23293GjuI15RPKW4AS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.HaloBackendApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Ganesh_projects/Hartford_Training/Full Stack Capstone Project&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="HaloBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="halo-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thehalo.halobackend.HaloBackendApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thehalo.halobackend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.HaloBackendApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8721bfec-39e8-4f44-bfe8-9aef37ce2a2b" name="Changes" comment="" />
+      <created>1773315554936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773315554936</updated>
+    </task>
+    <servers />
+  </component>
+</project>

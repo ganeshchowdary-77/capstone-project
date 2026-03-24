@@ -1,0 +1,9 @@
+[submodule "halo-backend"]
+	path = halo-backend
+	url = https://github.com/ganeshchowdary-77/halo-backend
+[submodule "halo-frontend"]
+	path = halo-frontend
+	url = https://github.com/ganeshchowdary-77/halo-frontend
+[submodule "official_documentation"]
+	path = official_documentation
+	url = https://github.com/ganeshchowdary-77/official_documentation

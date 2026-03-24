@@ -7,3 +7,6 @@
 [submodule "official_documentation"]
 	path = official_documentation
 	url = https://github.com/ganeshchowdary-77/official_documentation
+[submodule "halo-documentation"]
+	path = halo-documentation
+	url = https://github.com/ganeshchowdary-77/halo-documentation
